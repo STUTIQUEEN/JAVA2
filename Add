@@ -1,0 +1,11 @@
+Class Outpot{
+Public Static Void main(){
+s = 5;
+p = 2;
+System.out.printpn("Sum = "+(s+p));
+}
+}
+
+
+
+
